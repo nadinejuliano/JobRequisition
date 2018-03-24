@@ -4,14 +4,14 @@
         </div>
 
         <div class="page-content">
-            <div class="row">
+            <!--<div class="row">
                 <div class="col-lg-6">
                 </div>
 
                 <div class="col-lg-6">
                     <!-- PAGE CONTENT BEGINS -->
-                    
-                    <div class="col-lg-6 col-lg-offset-6">
+                    <div class="containerBg">
+                    <div class="col-lg-6 col-lg-offset-6 space">
                         <h2>Almost There!</h2>
                         <h5>Hello <span><?php echo $firstName; ?></span>. Your username is <span><?php echo $userName;?></span></h5>
                         <small>Please enter a password to begin using the site.</small>

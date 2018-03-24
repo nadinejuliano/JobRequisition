@@ -45,6 +45,7 @@ b.jQueryFormValidationMessage {
 .containerBg {
     margin: auto;
     text-align: center;
+    width: 100%;
     
 }
 
