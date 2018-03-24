@@ -1,0 +1,68 @@
+/*------------------------------------------------------------------
+AUTHOR: Randy D. Lagdaan
+DESCIPTION: TRIUNE - Integrated system for all university processess
+MATERIAL: Main Cascading Style Sheet for TRIUNE
+DATE CREATED: March 8, 2018
+DATE UPDATED: March 9, 2018
+--------------------------------------------------------------------*/
+
+img.progressImageRight {
+    height: 5%;
+    width: 5%;
+    display:none
+}
+    
+i.textBoxMessageAvailableMd {
+    display:none; 
+    color:green; 
+    padding: .5em; 
+    font-size:.7em; 
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+i.textBoxMessageNotAvailableMd {
+    display:none; 
+    color:red; 
+    padding: .5em; 
+    font-size:.7em; 
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+b.jQueryFormValidationMessage {
+    color:red; 
+    padding: 1em; 
+    font-size:.7em; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.no-skin {
+    background: linear-gradient(rgba(255, 255, 255,0.8), rgba(255, 255, 255, 0.8)),
+                url('../images/registerBg.png') no-repeat fixed;
+    background-size: cover;
+}
+
+.containerBg {
+    margin: auto;
+    text-align: center;
+    
+}
+
+.space {
+    margin: auto;
+    padding: 5px;
+}
+
+
+.footer {
+    text-align: center;
+    position: relative;
+    bottom:0;
+    width:100%;
+    margin-top: 20px;
+}
+
+.page-content {
+    margin: auto;
+    max-width: 50%;
+}

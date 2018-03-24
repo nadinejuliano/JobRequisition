@@ -1,0 +1,8 @@
+{
+    "name": "project/bernadinejuliano",
+    "description": "triune",
+    "type": "project",
+    "require": {
+        "nexmo/client": "^1.3"
+    }
+}
